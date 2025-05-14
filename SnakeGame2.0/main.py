@@ -1,9 +1,9 @@
 from turtle import Screen
-from A_PROJECT_Intermediate.New_Snake_Game.others.snake import Snake_S
-from A_PROJECT_Intermediate.New_Snake_Game.others.food import Food
-from A_PROJECT_Intermediate.New_Snake_Game.Data.score import Scoreboard
-from A_PROJECT_Intermediate.New_Snake_Game.Data.high_score_manager import HighScoreManager
-from A_PROJECT_Intermediate.New_Snake_Game.GUII.get_username_gui import get_username
+from others.snake import Snake_S
+from others.food import Food
+from Data.score import Scoreboard
+from Data.high_score_manager import HighScoreManager
+from get_username_gui import get_username
 import time
 import random
 
